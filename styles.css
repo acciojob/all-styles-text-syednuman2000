@@ -6,6 +6,6 @@ div {
 	color:white;
 	padding:10px;
 	border-left:5px SOLID;
-	border-color:green;
-	text-size:20px;
+	border-left-color:green;
+	font-size:20px;
 }
